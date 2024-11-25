@@ -11,9 +11,6 @@
   <a href="https://www.instagram.com/wena_indlovu/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="phoevos@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
-  </a>
 </div>
 
 ###
@@ -32,7 +29,7 @@
 
 ###
 
-<p align="left">I'm a Software Engineer with a love for Distributed Systems and Cloud Computing, striving to grow into an invaluable asset to any technical team and a future leader.<br><br>I've been in the Kubernetes space for the last 3 years, previously working with Arrikto and Canonical around the Kubeflow MLOps platform, and most recently alongside Cisco as part of my MSc project. Armed with this expertise, I’m looking for my next step in London, in an environment that will allow me to take on more responsibility and share my knowledge and passion for technology with brilliant people.</p>
+<p align="left">I'm a Software Engineer with a love for Distributed Systems and Cloud Computing, striving to grow into an invaluable asset to any technical team and a future leader.<br><br>I've been in the Kubernetes space for the last 3 years, previously working with Arrikto and Canonical around the Kubeflow MLOps platform, and most recently alongside Cisco as part of my MSc project. </p>
 
 ###
 
